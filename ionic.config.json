@@ -1,5 +1,7 @@
 {
   "name": "LellaApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
